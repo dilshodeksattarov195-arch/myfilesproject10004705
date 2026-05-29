@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteave",
+        "uuid": 19158760,
+        "checksum": "6hqx1e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
